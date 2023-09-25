@@ -22,3 +22,7 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 - Rig a 3D model
 - 3D animation
 - Interactive website using threeJS
+
+## Requirements
+
+[Requirements doc](M3D_01-03_Merkblatt_Richtlinien.pdf)
