@@ -28,6 +28,10 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 [Requirements doc](M3D_01-03_Merkblatt_Richtlinien.pdf)
 
+## Moodboard
+
+[Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
+
 
 ## Braindump
 
