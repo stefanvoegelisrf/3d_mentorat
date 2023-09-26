@@ -59,6 +59,7 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
   - Weather?
   - Sound?
   - Sound effects?
+  - Use screenshots from already done animations
 - Think about possible scenes for presentation
 - Watch skateboarding videos
   - find typical cameras and camera settings used(e.g. fisheye)
@@ -83,3 +84,13 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 - Research shaders for different artstyles
 
 - Create a product design for an elos skateboard that has some integrated legs and allows the skateboard to be converted to a table/seat
+
+- How to add raining effect?
+- Configurator
+  - import an image that has transparency and then creates a skateboard from the extracted form
+
+- Poses for skating
+  - handstand
+  - sitting
+  - holding it and driving on the wall
+    - start with camera angle that looks like the skateboard is on the ground and then rotate so it is the real angle
