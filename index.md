@@ -2,9 +2,9 @@
 
 ## Idea
 
-I often get asked, "Hey how do you drive with this thing?(my skateboard)". This is a strange question for me to hear as it is my daily driver and it's a skateboard like any other. My skateboard is a conversation starter and I would like to extend it, so I can also directly show a creative project related to it.
+I often get asked, "Hey how do you drive with this thing?(my skateboard)". This is a strange question for me to hear as it is my daily driver and it's a skateboard like any other. My skateboard([Elos](https://elosskateboards.com/)) is a conversation starter and I would like to extend it, so I can also directly show a creative project related to it.
 
-This gave me the idea, to create animations, that show various ways on how my skateboard can be skated. These animations will be crafted in a 3D software.
+This gave me the idea, to create animations, that show various ways on how my skateboard can be skated. These animations will be crafted in a 3D software and could show various environments.
 
 As another option, I could also craft other funny skateboard forms in 3D.
 
@@ -83,6 +83,7 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 - Try different shaders
 - Research shaders for different artstyles
+  - E.g. [viewfinder](https://store.steampowered.com/app/1382070/Viewfinder/) also uses different artstyles
 
 - Create a product design for an elos skateboard that has some integrated legs and allows the skateboard to be converted to a table/seat
 
