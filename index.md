@@ -94,3 +94,5 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
   - sitting
   - holding it and driving on the wall
     - start with camera angle that looks like the skateboard is on the ground and then rotate so it is the real angle
+
+- Analog prototypes?
