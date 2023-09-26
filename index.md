@@ -40,6 +40,9 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
   - Materials
   - Inform about how stuff could be rendered
   - Physics
+    - Experiment with physics animations
+      - Drop a skateboard from some height onto surfaces and see how it behaves?
+        - Is there something interesting to it that I can further use?
 
 - How does motion capture work?
   - Can I implement it in my project?
@@ -63,3 +66,20 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 - Create documentation
   - How do I want to do documentation? What is suitable?
+
+- How can I create a minifigure of me skating the skateboard?
+- Try adobe 3D model creation with photos(adobe substance 3d sampler)
+  - How to use these models as a base and how to refine?
+
+- Create a factory animation that creates random skateboards
+
+- Create an animation where I drive through the streets and heads of all people turn around
+  - Formula 1 style
+    - me driving through somewhere and heavily blurred and you only see me for like 2 seconds
+
+- Create an animation road runner style
+
+- Try different shaders
+- Research shaders for different artstyles
+
+- Create a product design for an elos skateboard that has some integrated legs and allows the skateboard to be converted to a table/seat
