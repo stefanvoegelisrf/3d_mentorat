@@ -26,3 +26,40 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 ## Requirements
 
 [Requirements doc](M3D_01-03_Merkblatt_Richtlinien.pdf)
+
+
+## Braindump
+
+- Search for
+  - Reference videos of skaters
+  - Rigging tutorials
+  - Character design tutorials
+  - Advanced sculpting or asset creation videos
+  - Texture creation videos
+  - Texture sources
+  - Materials
+  - Inform about how stuff could be rendered
+  - Physics
+
+- How does motion capture work?
+  - Can I implement it in my project?
+  - Do we have stuff that I could lend at leihs?
+
+- Could this scene be easily viewed in a vr headset?
+  - What could be funny use cases for vr?
+
+- How to integrate the skateboard onto a website and make it available for android ar and ios ar
+
+- Create a site with helpful links and shortcuts tailored to me
+- Create a moodboard
+  - What should the vibe be?
+  - Weather?
+  - Sound?
+  - Sound effects?
+- Think about possible scenes for presentation
+- Watch skateboarding videos
+  - find typical cameras and camera settings used(e.g. fisheye)
+  - Find typical camera angles
+
+- Create documentation
+  - How do I want to do documentation? What is suitable?
