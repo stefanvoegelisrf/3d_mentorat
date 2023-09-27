@@ -34,9 +34,11 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 ## Resources
 
-| Topic        | Resources                                                    |
-| ------------ | ------------------------------------------------------------ |
-| Model & Rigs | [Rigged models](https://www.turbosquid.com/de/rigged-models) |
+| Topic        | Resources                                                                                                                                                                      |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Model & Rigs | [Turbossquid - Rigged models](https://www.turbosquid.com/de/rigged-models)<br>[Blendernation - Models & rigs](https://www.blendernation.com/category/art/free-blender-models/) |
+
+
 
 ## Braindump
 
