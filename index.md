@@ -32,6 +32,12 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 [Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
 
+## Todos
+
+- Prioritize tasks
+- Create timeline
+- Define must/nice to have
+
 ## Resources
 
 | Topic        | Resources                                                                                                                                                                                                                                                                                                          |
