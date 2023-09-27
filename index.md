@@ -32,6 +32,11 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 [Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
 
+## Resources
+
+| Topic        | Resources                                                    |
+| ------------ | ------------------------------------------------------------ |
+| Model & Rigs | [Rigged models](https://www.turbosquid.com/de/rigged-models) |
 
 ## Braindump
 
