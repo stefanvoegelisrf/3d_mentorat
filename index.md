@@ -34,11 +34,11 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 ## Resources
 
-| Topic        | Resources                                                                                                                                                                      |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Model & Rigs | [Turbossquid - Rigged models](https://www.turbosquid.com/de/rigged-models)<br>[Blendernation - Models & rigs](https://www.blendernation.com/category/art/free-blender-models/) |
-| Blender      | [Blender documentation](https://docs.blender.org/manual/en/latest/)<br>[Blenderresources](https://blenderresources.com/)<br>[Blender studio](https://blenderresources.com/)    |
-| City maps    | [Stadt Zürich 3D Modell](https://www.stadt-zuerich.ch/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html)                                                               |
+| Topic        | Resources                                                                                                                                                                                                                                                          |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Model & Rigs | [Turbossquid - Rigged models](https://www.turbosquid.com/de/rigged-models)<br>[Blendernation - Models & rigs](https://www.blendernation.com/category/art/free-blender-models/)                                                                                     |
+| Blender      | [Blender documentation](https://docs.blender.org/manual/en/latest/)<br>[Blenderresources](https://blenderresources.com/)<br>[Blender studio](https://blenderresources.com/)<b>[List of blender tutorials and resources](https://github.com/agmmnn/awesome-blender) |
+| City maps    | [Stadt Zürich 3D Modell](https://www.stadt-zuerich.ch/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html)                                                                                                                                                   |
 
 
 ## Braindump
