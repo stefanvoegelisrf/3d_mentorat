@@ -37,6 +37,7 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 | Topic        | Resources                                                                                                                                                                      |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Model & Rigs | [Turbossquid - Rigged models](https://www.turbosquid.com/de/rigged-models)<br>[Blendernation - Models & rigs](https://www.blendernation.com/category/art/free-blender-models/) |
+| Blender      | [Blender documentation](https://docs.blender.org/manual/en/latest/)                                                                                                            |
 
 
 
