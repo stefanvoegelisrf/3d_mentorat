@@ -2,7 +2,6 @@
 
 ## Table of contents
 
-<newline>
 {:toc}
 
 ## Idea
