@@ -117,3 +117,12 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
     - start with camera angle that looks like the skateboard is on the ground and then rotate so it is the real angle
 
 - Analog prototypes?
+
+
+## Journal
+
+| Date       | Tasks                                                                                                                                                                                                                                                     | Duration                                       |
+| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 29.09.2023 | Sculpting research<br>[YouTube - Creating textures](https://youtu.be/F7Pt-SOnJ5U)<br>[YouTube - Extracting Textures from images](https://www.youtube.com/watch?v=Aj006df-boI)<br>[YouTube - Sculpting heads](https://www.youtube.com/watch?v=sYKpwDCfQpA) | 2 Hours - Videos<br>1 hour - task priotization |
+
+[YouTube Watch Playlist](https://youtube.com/playlist?list=PLvk9IwqLryOs5VjqZO0WnL5syT6f7Iazh&si=nRGqpOGJbyLrCqqE)
