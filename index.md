@@ -44,7 +44,7 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Model & Rigs    | [Turbossquid - Rigged models](https://www.turbosquid.com/de/rigged-models)<br>[Blendernation - Models & rigs](https://www.blendernation.com/category/art/free-blender-models/)<br>[Sketchfab - Handstand Model](https://sketchfab.com/3d-models/handstand-push-up-start-loop-end-345d8e36ec084cd3a5f830581ae16bcf) |
 | Blender         | [Blender documentation](https://docs.blender.org/manual/en/latest/)<br>[Blenderresources](https://blenderresources.com/)<br>[Blender studio](https://blenderresources.com/)<b>[List of blender tutorials and resources](https://github.com/agmmnn/awesome-blender)                                                 |
-| City maps       | [Stadt Zürich 3D Modell](https://www.stadt-zuerich.ch/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html)                                                                                                                                                                                                   |
+| City maps       | [Stadt Zürich 3D Modell](https://www.stadt-zuerich.ch/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html)<br>[Stadt Bern 3D Modell](https://map.bern.ch/3d-stadtmodell/)                                                                                                                                    |
 | Texure creation | [Quixel](https://quixel.com/mixer)<br>[Poly - Material Generator](https://poly.cam/material-generator)                                                                                                                                                                                                             |
 
 ## Ideation & Research
@@ -144,6 +144,8 @@ Goal: Learn how to create and apply textures to models.
 - Try adobe 3D model creation with photos(adobe substance 3d sampler)
   - How to use these models as a base and how to refine?
 
+- [YouTube: Skateboard Texture creation](https://www.youtube.com/playlist?list=PLARN2ZLXREIlVELfuNETZfvFg3_zXUY8Y)
+
 1. Skateboard Textures
    - Grip Tape Texture: Create a rough, gritty texture for the skateboard’s grip tape.
    - Deck Art Texture: Design or choose art for the underside of the skateboard.
@@ -161,14 +163,14 @@ Goal: Learn how to create and apply textures to models.
 4. Obstacle Textures
    - Rail and Ledge Textures: Generate metallic or stone textures for rails and ledges in the skate environment.
 Staircase Textures: If there are staircases, create textures for steps and handrails.
-5. Additional Props Textures
+1. Additional Props Textures
    - Trash Can, Benches, etc.: Design textures for any additional props in the animation scene.
-6. Weather and Time Effects
+2. Weather and Time Effects
    - Wet Surface Textures: If depicting rainy or wet conditions, create wet, reflective surface textures.
    - Night-Time Textures: For night scenes, create textures with appropriate lighting and reflections.
-7. Texture Optimization
+3. Texture Optimization
    - Optimizing for Performance: Ensure textures are optimized for performance, maintaining a balance between quality and rendering load.
-8. Final Review and Adjustment
+4. Final Review and Adjustment
    - Conduct a detailed review of all textures in the animation to ensure consistency and realism.
 
 #### Texture sources
