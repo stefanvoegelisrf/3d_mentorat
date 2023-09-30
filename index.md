@@ -70,6 +70,8 @@ Goal: Understand the movements and tricks of skaters for accurate animation.
 Goal: Analyze how skateboarding videos are shot and edited.
 
 - [Skaterdate(1965)](https://www.youtube.com/watch?v=IhgrkjSyrJU)
+  - [Screenshots](visual_references/Skaterdater
+  - )
 
 #### Find typical cameras and camera settings used (e.g. fisheye)
 
