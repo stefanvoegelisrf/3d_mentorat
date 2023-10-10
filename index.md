@@ -6,6 +6,8 @@
   - [Table of contents](#table-of-contents)
   - [Idea](#idea)
   - [Goals](#goals)
+    - [MVP](#mvp)
+    - [Nice to haves](#nice-to-haves)
   - [Requirements](#requirements)
   - [Todos](#todos)
   - [Resources](#resources)
@@ -61,6 +63,23 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 - 3D animation
 - Interactive website using threeJS
 - Finish course [threeJS journey](https://threejs-journey.com/)
+
+### MVP
+
+One skateboard animation with a beautiful scene displaying one way to use my skateboard.
+
+Minimum duration must be 7-10 seconds.
+
+Assets and textures are created by me or captured in the real world. Animation is done by hand or either motion capture. If animation by hand is taking too long, shortcuts will be used. This is done to not use up too much time for animation and insted use the time for experimenting.
+
+One skateboard model, explorable in the web as a 3D model, including AR.
+
+### Nice to haves
+
+- multiple animations
+- Skateboard configurator in the web with threeJS
+- Funny plot
+- Speech, Music, Effects - createc by myself
 
 ## Requirements
 
