@@ -66,6 +66,10 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 
 [Requirements doc](M3D_01-03_Merkblatt_Richtlinien.pdf)
 
+## Meetings
+
+- [meetings/2023-01-01](10.10.2023)
+
 ## Todos
 
 - Prioritize tasks
