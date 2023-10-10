@@ -2,7 +2,41 @@
 
 ## Table of contents
 
-{:toc}
+- [3D Mentorat](#3d-mentorat)
+  - [Table of contents](#table-of-contents)
+  - [Idea](#idea)
+  - [Goals](#goals)
+  - [Requirements](#requirements)
+  - [Todos](#todos)
+  - [Resources](#resources)
+  - [Ideation \& Research](#ideation--research)
+    - [Create a moodboard](#create-a-moodboard)
+    - [Search for reference videos of skaters](#search-for-reference-videos-of-skaters)
+    - [Watch skateboarding videos](#watch-skateboarding-videos)
+      - [Find typical cameras and camera settings used (e.g. fisheye)](#find-typical-cameras-and-camera-settings-used-eg-fisheye)
+      - [Find typical camera angles](#find-typical-camera-angles)
+  - [Experimenting](#experimenting)
+    - [Character design](#character-design)
+    - [Advanced sculpting or asset creation videos](#advanced-sculpting-or-asset-creation-videos)
+    - [Physics](#physics)
+      - [Experiment with physics animations](#experiment-with-physics-animations)
+      - [How does motion capture work?](#how-does-motion-capture-work)
+  - [Realization](#realization)
+    - [Scene](#scene)
+    - [Rigging](#rigging)
+      - [Poses for skating](#poses-for-skating)
+    - [Texture creation](#texture-creation)
+      - [Texture sources](#texture-sources)
+  - [Finishing:](#finishing)
+    - [How to render](#how-to-render)
+    - [Weather](#weather)
+    - [Sound effect](#sound-effect)
+  - [Exporting](#exporting)
+    - [VR](#vr)
+  - [Potential Time-Consuming and Challenging Areas:](#potential-time-consuming-and-challenging-areas)
+  - [Braindump](#braindump)
+  - [Journal](#journal)
+
 
 ## Idea
 
@@ -45,7 +79,7 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 | Model & Rigs    | [Turbossquid - Rigged models](https://www.turbosquid.com/de/rigged-models)<br>[Blendernation - Models & rigs](https://www.blendernation.com/category/art/free-blender-models/)<br>[Sketchfab - Handstand Model](https://sketchfab.com/3d-models/handstand-push-up-start-loop-end-345d8e36ec084cd3a5f830581ae16bcf) |
 | Blender         | [Blender documentation](https://docs.blender.org/manual/en/latest/)<br>[Blenderresources](https://blenderresources.com/)<br>[Blender studio](https://blenderresources.com/)<b>[List of blender tutorials and resources](https://github.com/agmmnn/awesome-blender)                                                 |
 | City maps       | [Stadt Zürich 3D Modell](https://www.stadt-zuerich.ch/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html)<br>[Stadt Bern 3D Modell](https://map.bern.ch/3d-stadtmodell/)                                                                                                                                    |
-| Texure creation | [Quixel](https://quixel.com/mixer)<br>[Poly - Material Generator](https://poly.cam/material-generator)<br>[Texturelab](https://www.texturelab.io/)                                                                                                                                                                                                             |
+| Texure creation | [Quixel](https://quixel.com/mixer)<br>[Poly - Material Generator](https://poly.cam/material-generator)<br>[Texturelab](https://www.texturelab.io/)                                                                                                                                                                 |
 
 ## Ideation & Research
 
@@ -258,5 +292,6 @@ Goal: Ensure the scene is optimized for VR viewing if necessary.
 | Date       | Tasks                                                                                                                                                                                                                                                                                                                                                                                                 | Duration                                                    |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | 29.09.2023 | Sculpting research<br>[YouTube - Creating textures](https://youtu.be/F7Pt-SOnJ5U)<br>[YouTube - Extracting Textures from images](https://www.youtube.com/watch?v=Aj006df-boI)<br>[YouTube - Sculpting heads](https://www.youtube.com/watch?v=sYKpwDCfQpA)<br>[Shoebox - texture extraction tool](https://renderhjs.net/shoebox/)<br>[Yansculpts sculpting tutorials](https://yansculpts.gumroad.com/) | 2 Hours - Videos<br>1 hour - task priotization & refinement |
+| 09.10.2023 | Research & Blender                                                                                                                                                                                                                                                                                                                                                                                    | TODO: add duration and contents                             |
 
 [YouTube Watch Playlist](https://youtube.com/playlist?list=PLvk9IwqLryOs5VjqZO0WnL5syT6f7Iazh&si=nRGqpOGJbyLrCqqE)
