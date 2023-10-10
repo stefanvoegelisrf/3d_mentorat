@@ -87,7 +87,8 @@ One skateboard model, explorable in the web as a 3D model, including AR.
 
 ## Meetings
 
-- [meetings/2023-01-01](10.10.2023)
+- [meetings/2023-09-27](27.09.2023)
+- [meetings/2023-10-10](10.10.2023)
 
 ## Todos
 
