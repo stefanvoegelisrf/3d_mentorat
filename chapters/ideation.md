@@ -32,6 +32,10 @@ Studios, animators,...
 - [Murad Therama](https://www.instagram.com/murad_therama/)
 - [Jörg Grubmüller](https://www.instagram.com/joergsla/)
   - [Blender Artists - Jörg Grubmüller](https://blenderartists.org/u/joergsla/activity/portfolio)
+- [Studio Knife](https://www.instagram.com/studioknife/)
+  - [Studio Knife Website](https://studioknife.com/)
+- [brotherston.tv](https://www.instagram.com/brotherston.tv/)
+  - [brotherston.tv Website](https://www.brotherston.tv/)
 
 ## Search for reference videos of skaters
 
