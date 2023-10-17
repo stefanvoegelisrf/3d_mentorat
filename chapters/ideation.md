@@ -1,8 +1,8 @@
-# Ideation & Research
+# Ideation and Research
 
-- [Ideation \& Research](#ideation--research)
+- [Ideation and Research](#ideation-and-research)
   - [Create a moodboard](#create-a-moodboard)
-    - [Art styles](#art-styles)
+    - [Animation inspiration](#animation-inspiration)
   - [Search for reference videos of skaters](#search-for-reference-videos-of-skaters)
   - [Watch skateboarding videos](#watch-skateboarding-videos)
     - [Find typical cameras and camera settings used (e.g. fisheye)](#find-typical-cameras-and-camera-settings-used-eg-fisheye)
@@ -20,9 +20,13 @@ Goal: Gather and organize visual references and inspirations.
 
 [Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
 
-### Art styles
+### Animation inspiration
+
+Studios, animators,...
 
 - [Hugo L Cuellar](https://www.instagram.com/hugolcuellar/)
+- [Mateusz Król — krol.jpg](https://www.instagram.com/krol.jpg/)
+- [PHUNK Studio](https://www.instagram.com/phunk.studio/)
 
 ## Search for reference videos of skaters
 
@@ -34,6 +38,8 @@ Goal: Analyze how skateboarding videos are shot and edited.
 
 - [Skaterdater(1965)](https://www.youtube.com/watch?v=IhgrkjSyrJU)
   - [Screenshots](visual_references/Skaterdater)
+- [Pretty Sweet](https://www.youtube.com/watch?v=-uajL18NcwU)
+- [We Are Blood](https://www.youtube.com/watch?v=j5uc5PEs-DA)
 
 ### Find typical cameras and camera settings used (e.g. fisheye)
 
