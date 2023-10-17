@@ -26,7 +26,12 @@ Studios, animators,...
 
 - [Hugo L Cuellar](https://www.instagram.com/hugolcuellar/)
 - [Mateusz Król — krol.jpg](https://www.instagram.com/krol.jpg/)
+  - [[Mateusz Król Website](https://www.mateuszkrol.com/)
 - [PHUNK Studio](https://www.instagram.com/phunk.studio/)
+  - [PHUNK Studio Website](https://www.phunk.studio/)
+- [Murad Therama](https://www.instagram.com/murad_therama/)
+- [Jörg Grubmüller](https://www.instagram.com/joergsla/)
+  - [Blender Artists - Jörg Grubmüller](https://blenderartists.org/u/joergsla/activity/portfolio)
 
 ## Search for reference videos of skaters
 
