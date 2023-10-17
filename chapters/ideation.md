@@ -1,0 +1,44 @@
+# Ideation & Research
+
+- [Ideation \& Research](#ideation--research)
+  - [Create a moodboard](#create-a-moodboard)
+    - [Art styles](#art-styles)
+  - [Search for reference videos of skaters](#search-for-reference-videos-of-skaters)
+  - [Watch skateboarding videos](#watch-skateboarding-videos)
+    - [Find typical cameras and camera settings used (e.g. fisheye)](#find-typical-cameras-and-camera-settings-used-eg-fisheye)
+    - [Find typical camera angles](#find-typical-camera-angles)
+
+## Create a moodboard
+
+Goal: Gather and organize visual references and inspirations.
+
+- What should the vibe be?
+- Weather?
+- Sound?
+- Sound effects?
+- Use screenshots from already done animations
+
+[Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
+
+### Art styles
+
+- [Hugo L Cuellar](https://www.instagram.com/hugolcuellar/)
+
+## Search for reference videos of skaters
+
+Goal: Understand the movements and tricks of skaters for accurate animation.
+
+## Watch skateboarding videos
+
+Goal: Analyze how skateboarding videos are shot and edited.
+
+- [Skaterdater(1965)](https://www.youtube.com/watch?v=IhgrkjSyrJU)
+  - [Screenshots](visual_references/Skaterdater)
+
+### Find typical cameras and camera settings used (e.g. fisheye)
+
+Research the equipment and settings used in skateboarding videos.
+
+### Find typical camera angles
+
+Research the camera angles that are typically used in skateboarding videos.

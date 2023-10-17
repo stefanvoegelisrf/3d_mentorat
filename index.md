@@ -6,35 +6,11 @@
   - [Table of contents](#table-of-contents)
   - [Idea](#idea)
   - [Goals](#goals)
+  - [Chapters](#chapters)
     - [MVP](#mvp)
     - [Nice to haves](#nice-to-haves)
   - [Requirements](#requirements)
-  - [Todos](#todos)
   - [Resources](#resources)
-  - [Ideation \& Research](#ideation--research)
-    - [Create a moodboard](#create-a-moodboard)
-    - [Search for reference videos of skaters](#search-for-reference-videos-of-skaters)
-    - [Watch skateboarding videos](#watch-skateboarding-videos)
-      - [Find typical cameras and camera settings used (e.g. fisheye)](#find-typical-cameras-and-camera-settings-used-eg-fisheye)
-      - [Find typical camera angles](#find-typical-camera-angles)
-  - [Experimenting](#experimenting)
-    - [Character design](#character-design)
-    - [Advanced sculpting or asset creation videos](#advanced-sculpting-or-asset-creation-videos)
-    - [Physics](#physics)
-      - [Experiment with physics animations](#experiment-with-physics-animations)
-      - [How does motion capture work?](#how-does-motion-capture-work)
-  - [Realization](#realization)
-    - [Scene](#scene)
-    - [Rigging](#rigging)
-      - [Poses for skating](#poses-for-skating)
-    - [Texture creation](#texture-creation)
-      - [Texture sources](#texture-sources)
-  - [Finishing:](#finishing)
-    - [How to render](#how-to-render)
-    - [Weather](#weather)
-    - [Sound effect](#sound-effect)
-  - [Exporting](#exporting)
-    - [VR](#vr)
   - [Potential Time-Consuming and Challenging Areas:](#potential-time-consuming-and-challenging-areas)
   - [Braindump](#braindump)
   - [Journal](#journal)
@@ -64,6 +40,14 @@ Apart from the main topic, I can also use this as an exercise to create a scene 
 - Interactive website using threeJS
 - Finish course [threeJS journey](https://threejs-journey.com/)
 
+## Chapters
+
+- [Ideation](chapters/ideation)
+- [Experimenting](chapters/experimenting)
+- [Realization](chapters/realization)
+- [Finishing](chapters/finishing)
+- [Exporting](chapters/exporting)
+
 ### MVP
 
 One skateboard animation with a beautiful scene displaying one way to use my skateboard.
@@ -91,12 +75,6 @@ One skateboard model, explorable in the web as a 3D model, including AR.
 - [27.09.2023](meetings/2023-09-27)
 - [10.10.2023](meetings/2023-10-10)
 
-## Todos
-
-- Prioritize tasks
-- Create timeline
-- Define must/nice to have
-
 ## Resources
 
 | Topic           | Resources                                                                                                                                                                                                                                                                                                          |
@@ -106,191 +84,7 @@ One skateboard model, explorable in the web as a 3D model, including AR.
 | City maps       | [Stadt Zürich 3D Modell](https://www.stadt-zuerich.ch/ted/de/index/geoz/plan-und-datenbezug/3d-stadtmodell.html)<br>[Stadt Bern 3D Modell](https://map.bern.ch/3d-stadtmodell/)                                                                                                                                    |
 | Texure creation | [Quixel](https://quixel.com/mixer)<br>[Poly - Material Generator](https://poly.cam/material-generator)<br>[Texturelab](https://www.texturelab.io/)                                                                                                                                                                 |
 
-## Ideation & Research
 
-### Create a moodboard
-
-Goal: Gather and organize visual references and inspirations.
-
-- What should the vibe be?
-- Weather?
-- Sound?
-- Sound effects?
-- Use screenshots from already done animations
-
-[Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
-
-### Search for reference videos of skaters
-
-Goal: Understand the movements and tricks of skaters for accurate animation.
-
-### Watch skateboarding videos
-
-Goal: Analyze how skateboarding videos are shot and edited.
-
-- [Skaterdater(1965)](https://www.youtube.com/watch?v=IhgrkjSyrJU)
-  - [Screenshots](visual_references/Skaterdater)
-
-#### Find typical cameras and camera settings used (e.g. fisheye)
-
-Research the equipment and settings used in skateboarding videos.
-
-#### Find typical camera angles
-
-Research the camera angles that are typically used in skateboarding videos.
-
-## Experimenting
-
-### Character design
-
-Goal: Start the design and conceptualization of characters.
-
-- Search tutorials
-- How can I create a minifigure of me skating the skateboard?
-
-### Advanced sculpting or asset creation videos
-
-Goal: Learn techniques for creating assets and details for models.
-
-### Physics
-
-Goal: Begin to explore the physics options in Blender.
-
-- Drop a skateboard from some height onto surfaces and see how it behaves?
-
-#### Experiment with physics animations
-
-Test different physics settings to see how the skateboard behaves in different situations.
-
-#### How does motion capture work?
-
-Goal: Understand the process of motion capture.
-
-- Determine the feasibility of using motion capture in my project.
-- Check the availability of necessary equipment or tools at leihs or other sources.
-
-## Realization
-
-### Scene
-
-- Think about possible scenes for presentation
-- Create an animation where I drive through the streets and heads of all people turn around
-  - Formula 1 style
-    - me driving through somewhere and heavily blurred and you only see me for like 2 seconds
-- Create an animation road runner style
-- Create a factory animation that creates random skateboards
-
-
-### Rigging
-
-Goal: Create a skeleton for 3D model to make it animatable.
-
-- Search tutorials
-
-#### Poses for skating
-
-Develop basic poses for characters and skateboard.
-
-- handstand
-- sitting
-- holding it and driving on the wall
-  - start with camera angle that looks like the skateboard is on the ground and then rotate so it is the real angle
-
-### Texture creation
-
-Goal: Learn how to create and apply textures to models.
-
-- Try adobe 3D model creation with photos(adobe substance 3d sampler)
-  - How to use these models as a base and how to refine?
-
-- [YouTube: Skateboard Texture creation](https://www.youtube.com/playlist?list=PLARN2ZLXREIlVELfuNETZfvFg3_zXUY8Y)
-
-1. Skateboard Textures
-   - Grip Tape Texture: Create a rough, gritty texture for the skateboard’s grip tape.
-   - Deck Art Texture: Design or choose art for the underside of the skateboard.
-   - Wheel and Truck Textures: Develop realistic metal and rubber textures for the wheels and trucks.
-2. Character Textures
-   - Clothing Textures: Create textures for the character’s clothing, considering different materials and designs.
-   - Skin Texture: Generate a realistic skin texture for the character.
-   - Hair Texture: Design a suitable hair texture.
-   - Accessory Textures: Design textures for any accessories the character might wear (hat, sunglasses, etc.).
-3. Environmental Textures
-   - Street/Sidewalk Texture: Develop textures for the ground where the skating is taking place, considering elements like asphalt, concrete, or cobblestones.
-   - Ramp/Park Textures: If a skate park or ramps are involved, create textures for these surfaces.
-   - Building/Wall Textures: Create textures for any surrounding buildings, walls, or other large surfaces.
-   - Nature Textures: Design textures for any natural elements, such as grass, trees, or sky.
-4. Obstacle Textures
-   - Rail and Ledge Textures: Generate metallic or stone textures for rails and ledges in the skate environment.
-Staircase Textures: If there are staircases, create textures for steps and handrails.
-1. Additional Props Textures
-   - Trash Can, Benches, etc.: Design textures for any additional props in the animation scene.
-2. Weather and Time Effects
-   - Wet Surface Textures: If depicting rainy or wet conditions, create wet, reflective surface textures.
-   - Night-Time Textures: For night scenes, create textures with appropriate lighting and reflections.
-3. Texture Optimization
-   - Optimizing for Performance: Ensure textures are optimized for performance, maintaining a balance between quality and rendering load.
-4. Final Review and Adjustment
-   - Conduct a detailed review of all textures in the animation to ensure consistency and realism.
-
-#### Texture sources
-
-Find textures for models.
-Materials: Set up the materials for models.
-Think about possible scenes for presentation: Plan and design the scenes for animation.
-
-## Finishing:
-
-### How to render
-
-Goal: Understand the rendering process in Blender.
-
-- Try different shaders
-
-
-### Weather
-
-Decide the weather condition for scene.
-
-### Sound effect
-
-Goal: Incorporate audio into animation. Add specific sound effects that correspond with the actions in the animation.
-
-1. Skateboard Sounds
-   - Wheels Rolling: Create or find sound effects for the skateboard wheels rolling on different surfaces.
-   - Tricks: Sounds for ollies, kickflips, grinds, and other skateboard tricks.
-   - Collisions: Sounds for the skateboard hitting obstacles or crashing.
-   - Board Components: Specific sounds for different parts of the skateboard (e.g., trucks moving).
-2. Character Sounds
-   - Footsteps: Different sound effects for character movements.
-   - Clothing: Sounds of clothing rustling as the character moves.
-   - Vocalizations: Grunts, exclamations, or other sounds made by the character.
-3. Ambient Sounds
-   - Outdoor Ambience: Background noise for outdoor scenes (birds chirping, wind blowing, etc.).
-   - Urban Ambience: Sounds typical of a city or town setting (traffic, people talking, etc.).
-   - Indoor Ambience: Echoes, room noise, or other relevant ambient sounds for indoor settings.
-4. Environmental Sounds
-   - Obstacle Interaction: Sounds related to interacting with various obstacles (e.g., ramps, rails).
-   - Weather Effects: If the scene involves different weather conditions, include appropriate sound effects (rain, thunder, etc.).
-5. Music
-   - Background Music: Choose or create a suitable musical track to accompany the animation.
-   - Musical Cues: Short musical pieces for transitions, successful tricks, or other significant moments.
-6. Additional Sound Effects
-   - Crowd Noise: If the animation has a crowd or spectators, include crowd noise, applause, or reactions.
-   - Special Effects: Any additional sound effects needed for special or unexpected events in the animation.
-7. Sound Editing and Mixing
-   - Synchronization: Ensure all sounds are correctly timed to match the animation.
-   - Balancing: Adjust the volume levels of different sound elements for clarity and emphasis.
-   - Sound Quality Enhancement: Utilize sound editing tools to enhance the quality and impact of sound effects.
-8. Final Review and Adjustment
-   - Conduct a thorough review of the sound design and make necessary adjustments for optimal audio experience.
-
-## Exporting
-
-### VR
-
-Goal: Ensure the scene is optimized for VR viewing if necessary.
-
-- Consider entertaining or educational VR applications for the animation.
 
 ## Potential Time-Consuming and Challenging Areas:
 
