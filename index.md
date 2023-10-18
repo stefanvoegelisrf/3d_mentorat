@@ -1,9 +1,8 @@
 # 3D Mentorat
 
-## Table of contents
+[Back to overview](/studiesstart/)
 
 - [3D Mentorat](#3d-mentorat)
-  - [Table of contents](#table-of-contents)
   - [Idea](#idea)
   - [Goals](#goals)
   - [Chapters](#chapters)
