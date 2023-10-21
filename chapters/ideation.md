@@ -2,8 +2,8 @@
 
 - [Ideation and Research](#ideation-and-research)
   - [Create a moodboard](#create-a-moodboard)
+  - [Art styles](#art-styles)
     - [Animation inspiration](#animation-inspiration)
-  - [Search for reference videos of skaters](#search-for-reference-videos-of-skaters)
   - [Watch skateboarding videos](#watch-skateboarding-videos)
     - [Find typical cameras and camera settings used (e.g. fisheye)](#find-typical-cameras-and-camera-settings-used-eg-fisheye)
     - [Find typical camera angles](#find-typical-camera-angles)
@@ -17,8 +17,49 @@ Goal: Gather and organize visual references and inspirations.
 - Sound?
 - Sound effects?
 - Use screenshots from already done animations
+- Search for reference videos of skaters
 
 [Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
+
+## Art styles
+
+- Cartoon or Stylized
+   - Flat Colors: Use solid, vibrant colors and avoid gradients to create a flat, 2D look
+   - Exaggerated Features: Oversized heads, eyes, or other body parts can give a playful, cartoonish vibe.
+   - Simple Shapes: Use basic geometric shapes for characters and environments.
+- Low Poly
+   - Faceted Surfaces: The low poly style is characterized by a low count of polygons, creating a faceted surface.
+   - Bold Colors: Use bold and vibrant colors to enhance the geometric feel.
+- Abstract
+   - Non-Representational Forms: Create shapes and forms that don’t mimic reality.
+   - Vivid Colors: Use a palette of vivid colors to create a surreal or dream-like atmosphere.
+- Pixel Art (3D)
+  - Voxel Models: Create your 3D models as if they are made out of 3D pixels or voxels.
+  - Retro Feel: This style gives a nod to classic video games.
+- Paper Cut-Out
+  - Flat Layers: Model your objects as if they were cut from paper and layered on top of each other.
+  - Textures: Use textures that mimic paper to enhance the effect.
+- Cel-Shaded
+  - Thick Outlines: Use thick, black outlines around objects to create a comic book or hand-drawn feel.
+  - Flat Shading: Use flat colors without gradients to mimic hand-painted animation.
+- Minimalistic
+  - Simple Forms: Use simple, clean lines and shapes.
+  - Limited Palette: Stick to a limited color palette for a modern, sleek look.
+- Hand-Painted
+  - Painterly Textures: Use textures that mimic brush strokes.
+  - Artistic Lighting: Use lighting to enhance the hand-painted effect.
+- Claymation Style
+  - Imperfect Surfaces: Create surfaces that look hand-molded with imperfections.
+  - Soft Lighting: Use soft lighting to mimic the look of stop-motion clay animation.
+-  Surrealistic
+   -  Dream-Like Atmosphere: Create scenes that defy reality and have a dream-like quality
+   -  Unusual Proportions: Play with proportions and perspectives.
+- Watercolor
+  - Translucent Textures: Use textures that mimic the translucency of watercolor paint.
+  - Soft Edges: Avoid harsh lines and edges for a gentle look.
+- Sketch Style
+  - Hand-Drawn Lines: Add lines and textures that look like pencil sketches.
+  - Rough Textures: Use rough textures to enhance the sketched effect.
 
 ### Animation inspiration
 
@@ -38,10 +79,6 @@ Studios, animators,...
   - [brotherston.tv Website](https://www.brotherston.tv/)
 - [Rémi Sanchez](https://www.instagram.com/reming_art/)
 - [Alexander Ivanov](https://www.instagram.com/jilrock1)
-
-## Search for reference videos of skaters
-
-Goal: Understand the movements and tricks of skaters for accurate animation.
 
 ## Watch skateboarding videos
 
