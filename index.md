@@ -9,6 +9,7 @@
     - [MVP](#mvp)
     - [Nice to haves](#nice-to-haves)
   - [Requirements](#requirements)
+  - [Meetings](#meetings)
   - [Resources](#resources)
   - [Potential Time-Consuming and Challenging Areas:](#potential-time-consuming-and-challenging-areas)
   - [Braindump](#braindump)
@@ -68,8 +69,7 @@ One skateboard model, explorable in the web as a 3D model, including AR.
 
 [Requirements doc](M3D_01-03_Merkblatt_Richtlinien.pdf)
 
-
-## Meetings
+## Meetings
 
 - [27.09.2023](meetings/2023-09-27)
 - [10.10.2023](meetings/2023-10-10)
