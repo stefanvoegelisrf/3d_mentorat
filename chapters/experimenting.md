@@ -34,4 +34,5 @@ Test different physics settings to see how the skateboard behaves in different s
 Goal: Understand the process of motion capture.
 
 - Determine the feasibility of using motion capture in my project.
+  - There is a motion capture suit available at leihs: [DK MD xsens Motion Capture Suit](https://ausleihe.hslu.ch/borrow/models/c70d6d65-86c8-4e4a-92ee-28624e931e5b)
 - Check the availability of necessary equipment or tools at leihs or other sources.
