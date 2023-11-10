@@ -73,6 +73,7 @@ One skateboard model, explorable in the web as a 3D model, including AR.
 
 - [27.09.2023](meetings/2023-09-27)
 - [10.10.2023](meetings/2023-10-10)
+- [07.11.2023](meetings/2023-11-07)
 
 ## Resources
 
