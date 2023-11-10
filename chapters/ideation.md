@@ -2,11 +2,11 @@
 
 - [Ideation and Research](#ideation-and-research)
   - [Create a moodboard](#create-a-moodboard)
-  - [Art styles](#art-styles)
+    - [Art styles](#art-styles)
     - [Animation inspiration](#animation-inspiration)
-  - [Watch skateboarding videos](#watch-skateboarding-videos)
-    - [Find typical cameras and camera settings used (e.g. fisheye)](#find-typical-cameras-and-camera-settings-used-eg-fisheye)
-    - [Find typical camera angles](#find-typical-camera-angles)
+    - [Watch skateboarding videos](#watch-skateboarding-videos)
+      - [Reference Skateboard movies](#reference-skateboard-movies)
+    - [Asset research](#asset-research)
 
 ## Create a moodboard
 
@@ -21,7 +21,7 @@ Goal: Gather and organize visual references and inspirations.
 
 [Moodboard on Miro](https://miro.com/app/board/uXjVMhXxN68=/?share_link_id=148584472550)
 
-## Art styles
+### Art styles
 
 - Cartoon or Stylized
    - Flat Colors: Use solid, vibrant colors and avoid gradients to create a flat, 2D look
@@ -80,19 +80,21 @@ Studios, animators,...
 - [Rémi Sanchez](https://www.instagram.com/reming_art/)
 - [Alexander Ivanov](https://www.instagram.com/jilrock1)
 
-## Watch skateboarding videos
+### Watch skateboarding videos
 
 Goal: Analyze how skateboarding videos are shot and edited.
 
+- Find typical cameras and camera settings used (e.g. fisheye)
+  - Research the equipment and settings used in skateboarding videos.
+- Find typical camera angles
+  - Research the camera angles that are typically used in skateboarding videos.
+
+#### Reference Skateboard movies
+
 - [Skaterdater(1965)](https://www.youtube.com/watch?v=IhgrkjSyrJU)
-  - [Screenshots](visual_references/Skaterdater)
 - [Pretty Sweet](https://www.youtube.com/watch?v=-uajL18NcwU)
 - [We Are Blood](https://www.youtube.com/watch?v=j5uc5PEs-DA)
 
-### Find typical cameras and camera settings used (e.g. fisheye)
+### Asset research
 
-Research the equipment and settings used in skateboarding videos.
-
-### Find typical camera angles
-
-Research the camera angles that are typically used in skateboarding videos.
+Goal: Find assets that can be used in a scene
